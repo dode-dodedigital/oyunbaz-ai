@@ -241,3 +241,6 @@ export default function OyunbazApp() {
     </div>
   );
 }
+git init
+git add .
+git commit -m "İlk yükleme: Oyunbaz AI"
