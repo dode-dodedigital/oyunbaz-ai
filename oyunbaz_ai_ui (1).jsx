@@ -244,3 +244,6 @@ export default function OyunbazApp() {
 git init
 git add .
 git commit -m "İlk yükleme: Oyunbaz AI"
+git remote add origin https://github.com/dode-dodedigital/oyunbaz-ai.git
+git branch -M main
+git push -u origin main
